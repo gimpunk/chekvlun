@@ -1,0 +1,8 @@
+wp-content/plugins
+media/css
+skin/frontend
+sites/all
+media/jui/js/jquery.min.js
+Joomla
+component/content/
+vbulletin-core.js
